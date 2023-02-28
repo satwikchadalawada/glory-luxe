@@ -2,7 +2,7 @@ GLORY LUXE *
 This is a web based application for health related based website in india
  This web based health application has been developed for the accomplishment of FUTURE READY TALENT  intership program launched by microsoft ,
  future skills prime,Quess,github and EY.
- project link : /index.html
+ project link : /https://satwikchadalawada.github.io/glory-luxe/
  project video link 
  
  Uploading project glory lux.mp4…
